@@ -1,0 +1,102 @@
+.image-1-icon {
+  position: absolute;
+  top: 360.2px;
+  left: 289px;
+  border-radius: 12.96px;
+  width: 968px;
+  height: 729.6px;
+  object-fit: cover;
+}
+.download-a-free,
+.tm {
+  position: absolute;
+  font-weight: 800;
+}
+.download-a-free {
+  top: 0;
+  left: 255.3px;
+  line-height: 130%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1001.7px;
+  height: 445.8px;
+}
+.tm {
+  top: 14.5px;
+  left: 152.3px;
+  display: inline-block;
+  width: 12.7px;
+  height: 7.3px;
+}
+.trending-topic-1-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 47.9px;
+  height: 47.9px;
+  overflow: hidden;
+}
+.uifry-icon {
+  position: absolute;
+  top: 7.2px;
+  left: 57px;
+  width: 92.8px;
+  height: 41.3px;
+}
+.tm-parent,
+.trending-topic-1-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 149.8px;
+  height: 48.5px;
+}
+.tm-parent {
+  top: 72.6px;
+  left: 690.7px;
+  width: 165px;
+  text-align: left;
+  font-size: 5.9px;
+}
+.uifrycom-waiting-list-and-fee-child {
+  position: absolute;
+  top: 143px;
+  left: 44.1px;
+  width: 1433.9px;
+  height: 756.8px;
+}
+.uifrycom-waiting-list-and-fee-item {
+  position: absolute;
+  top: -120.5px;
+  left: 94px;
+  width: 1388.3px;
+  height: 598.3px;
+  object-fit: contain;
+  opacity: 0.2;
+}
+.emmental-icon {
+  position: absolute;
+  height: 13.83%;
+  width: 8.54%;
+  top: 15.64%;
+  right: 87.02%;
+  bottom: 70.53%;
+  left: 4.44%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.uifrycom-waiting-list-and-fee {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-3xs);
+  background: linear-gradient(103.53deg, #ff5e08, #ff9963);
+  height: 960px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 58.3px;
+  color: var(--color-white);
+  font-family: var(--font-plus-jakarta-sans);
+}
